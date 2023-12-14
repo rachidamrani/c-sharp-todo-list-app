@@ -1,0 +1,14 @@
+E:\Workspace\C#\TodoListApp\bin\Debug\net8.0\TodoListApp.exe
+E:\Workspace\C#\TodoListApp\bin\Debug\net8.0\TodoListApp.deps.json
+E:\Workspace\C#\TodoListApp\bin\Debug\net8.0\TodoListApp.runtimeconfig.json
+E:\Workspace\C#\TodoListApp\bin\Debug\net8.0\TodoListApp.dll
+E:\Workspace\C#\TodoListApp\bin\Debug\net8.0\TodoListApp.pdb
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.AssemblyInfoInputs.cache
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.AssemblyInfo.cs
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.dll
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\refint\TodoListApp.dll
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.pdb
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\TodoListApp.genruntimeconfig.cache
+E:\Workspace\C#\TodoListApp\obj\Debug\net8.0\ref\TodoListApp.dll
